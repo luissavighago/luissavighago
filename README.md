@@ -1,6 +1,6 @@
 ## Olá, seja bem-vindo(a)! 👋
 
-### 🛠️ Tecnologias que utilizo
+### 🛠️ Tecnologias que utilizo:
 
 - Java,Spring Boot
 - Angular
